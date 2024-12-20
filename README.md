@@ -4,7 +4,7 @@ The project is a web-based tool that enables users to custom builds of PixiJS by
 
 ## Usage
 
-https://pixijs.io/customize
+https://userland.pixijs.io/customize
 
 ## Authors
 
